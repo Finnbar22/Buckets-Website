@@ -96,7 +96,7 @@ img {
 
 #row-1 #nav {
 	position: absolute;
-	top: 10px;
+	top: 20px;
 	right: 40px;
 	margin: 0;
 	font-family: Georgia, serif;
@@ -126,9 +126,11 @@ img {
 
 #after-content {
 	text-align: center;
-	font-size: 25px;
+	font-size: 15px;
 	font-weight: 300;
-	margin-bottom: 10px;
+	margin-top: -10px;
+	margin-left: 5px;
+	font-family: sans-serif;
 }
 
 ul {
