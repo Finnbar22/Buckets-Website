@@ -55,7 +55,7 @@ body {
 	font-size: 40px;
 	font-family: sans-serif;
 	font-weight: 300;
-	margin-top: -10px;
+	margin-bottom: 20px;
 }
 
 #row-2 {
@@ -129,6 +129,19 @@ video {
 	display:        flex;
 	flex-direction: column;
 	justify-content: center;
+}
+
+#applinks {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display:    -moz-box;
+	display:        flex;
+	margin-right: 20px;
+}
+
+#appstorelink {
+
+	margin-right: 20px;
 }
 
 #one-liner {
