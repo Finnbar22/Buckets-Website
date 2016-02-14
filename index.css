@@ -108,18 +108,18 @@ hr {
 	position: relative;
 	z-index: 1;
 	bottom: 0;
-	height: 570px;
-	width: 302px;
+	height: 568px;
+	width: 300px;
 }
 
 video {
 	position: absolute;
-	top: 76px;
-	left: 24px;
+	top: 75px;
+	left: 23px;
 	z-index: 999;
 	width: 245px;
-	height: 421px;
-	border-radius: 5px;
+	height: 420px;
+	border-radius: 7px;
 }
 
 #text-content {
