@@ -77,10 +77,8 @@ hr {
 	font-weight: 300;
 }
 
-.logo_font {
-	color: #D91E18;
-	font-family: 'Rock Salt', cursive;
-	font-size: 32px;
+#logo {
+	padding-top: 20px;
 }
 
 #visual-content {
@@ -171,6 +169,13 @@ a:hover {
 	align-items: center;
 	text-align: center;
 	font-size: 13px;
+}
+
+#privacy {
+
+    padding-left: 150px;
+    padding-right: 10px;
+
 }
 
 #copyright {
